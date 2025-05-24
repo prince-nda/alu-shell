@@ -1,1 +1,1 @@
-This is a shell project
+This is my shell project
