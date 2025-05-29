@@ -1,1 +1,1 @@
-This is my shell redirect  project
+This is my shell redirect project
