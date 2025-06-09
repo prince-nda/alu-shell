@@ -1,1 +1,2 @@
-0-hello_world
+This is my Shell, init files, variables and expansions
+
