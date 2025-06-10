@@ -1,1 +1,2 @@
-This is my Shell, loops, conditions and parsing
+This is my Shell, processes and signals
+
