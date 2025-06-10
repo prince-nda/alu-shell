@@ -1,2 +1,1 @@
-This is my Shell, init files, variables and expansions
-
+This is my Shell, loops, conditions and parsing
